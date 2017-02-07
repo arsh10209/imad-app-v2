@@ -1,4 +1,4 @@
-body {
+/*body {
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
@@ -20,3 +20,21 @@ body {
     height: 200px;
 }
 
+*/
+.navbar
+{
+	padding-top:10px;
+	padding-bottom:15px;
+	border:0;
+	border-radius:0;
+	margin-bottom:0;
+	font-size:18px;
+	
+	
+}
+.footer
+{
+	background: #e7e7e7;
+	padding:10px;
+	color: #0D47A1;
+}
